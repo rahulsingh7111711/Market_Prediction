@@ -7,27 +7,31 @@ This project focuses on predicting stock market trends using historical data fro
 ## Features
 
 Fetches historical stock data from Yahoo Finance
+
 Cleans and preprocesses the dataset
+
 Implements RandomForest for price prediction
+
 Visualizes trends using Matplotlib
+
 Evaluates model performance using MSE and R² score
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-Usage
+## Usage
 
 Run the Jupyter Notebook:
 
 jupyter notebook Market_Pred.ipynb
 
-Dependencies
+## Dependencies
 
 Ensure you have the following Python libraries installed:
 
 pip install yfinance numpy pandas scikit-learn matplotlib
 
-Results
+## Results
 
 The model's performance is evaluated using:
 
@@ -37,10 +41,10 @@ R² Score
 
 Feature Importance Analysis
 
-Contribution
+## Contribution
 
 Feel free to contribute by opening an issue or submitting a pull request!
 
-License
+## License
 
 This project is licensed under the MIT License.
