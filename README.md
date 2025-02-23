@@ -1,10 +1,10 @@
-#Stock Market Prediction using Machine Learning
+# Stock Market Prediction using Machine Learning
 
-##Overview
+## Overview
 
 This project focuses on predicting stock market trends using historical data from Yahoo Finance (yfinance). It applies machine learning models, including RandomForest, to forecast stock prices, particularly for the S&P 500 (^GSPC).
 
-##Features
+## Features
 
 Fetches historical stock data from Yahoo Finance
 
@@ -16,7 +16,7 @@ Visualizes trends using Matplotlib
 
 Evaluates model performance using MSE and R² score
 
-##Installation
+## Installation
 
 Clone the repository and install the required dependencies:
 
