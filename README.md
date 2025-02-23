@@ -7,22 +7,10 @@ This project focuses on predicting stock market trends using historical data fro
 ## Features
 
 Fetches historical stock data from Yahoo Finance
-
 Cleans and preprocesses the dataset
-
 Implements RandomForest for price prediction
-
 Visualizes trends using Matplotlib
-
 Evaluates model performance using MSE and R² score
-
-## Installation
-
-Clone the repository and install the required dependencies:
-
-# Clone the repository
-git clone https://github.com/yourusername/market-prediction.git
-cd market-prediction
 
 # Install dependencies
 pip install -r requirements.txt
